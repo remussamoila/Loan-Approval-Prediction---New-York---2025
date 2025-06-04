@@ -1,4 +1,4 @@
-# Loan-Approval-Prediction---New-York---2025
+# Carambanalytics Team
 Loan Approval Prediction - New York - 2025
 # 🏦 Loan Approval Prediction – New York 2025 (Kaggle Competition)
 
