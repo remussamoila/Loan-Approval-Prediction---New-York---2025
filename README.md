@@ -30,7 +30,7 @@ https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction--
 │
 ├── docs/                # Documentation
 │   ├── authorship_table.pdf      # Team notebook ownership matrix
-│   ├── requirements.txt          # Required packages
+│   └── requirements.txt          # Required packages
 │
 ├── notebooks/                # Team notebooks
 │   ├── 01_eda.ipynb              # EDA - Samvel
