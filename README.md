@@ -28,6 +28,10 @@ https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction--
 .
 ├── data/                      # CSV files (train, test, sample_submission) –  uploaded
 │
+├── docs/                # Documentation
+│   ├── authorship_table.pdf      # Team notebook ownership matrix
+│   ├── requirements.txt          # Required packages
+│
 ├── notebooks/                # Team notebooks
 │   ├── 01_eda.ipynb              # EDA - Samvel
 │   ├── 02_preprocessing.ipynb    # Data cleaning - Anne
@@ -42,8 +46,6 @@ https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction--
 ├── presentation/
 │   └── slides.pdf             # Final presentation
 │
-├── authorship_table.pdf       # Team notebook ownership matrix
-├── requirements.txt           # Required packages
 └── README.md                  # This file
 
 
