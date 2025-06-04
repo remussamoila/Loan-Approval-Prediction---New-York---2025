@@ -31,6 +31,7 @@ This repository contains the solution developed by our team for the **"Loan Appr
 │   ├── 03_baseline_models.ipynb  # Logistic/Tree - Alex
 │   ├── 04_advanced_models.ipynb  # XGBoost/LGBM - Remus
 │   └── 05_ensemble_final.ipynb   # Voting model - Ana
+│   └── 06_submission.ipynb       # Submission file creation – Aye
 │
 ├── outputs/
 │   └── my-model.csv           # Final submission file (id, Accept)
