@@ -42,3 +42,6 @@ This repository contains the solution developed by our team for the **"Loan Appr
 ├── authorship_table.pdf       # Team notebook ownership matrix
 ├── requirements.txt           # Required packages
 └── README.md                  # This file
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction---New-York---2025/blob/main/notebooks/00_setup_repo.ipynb)
