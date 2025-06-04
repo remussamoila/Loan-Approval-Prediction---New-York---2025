@@ -7,6 +7,9 @@ This repository contains the solution developed by our team for the **"Loan Appr
 📌 **Kaggle Link**: [Loan Approval Prediction - NY 2025](https://www.kaggle.com/competitions/loan-approval-prediction-new-york-2025)
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction---New-York---2025/blob/main/notebooks/00_setup_repo.ipynb)
+
 
 ## 👥 Team Members
 
