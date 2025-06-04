@@ -40,6 +40,10 @@ https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction--
 │   ├── 05_ensemble_final.ipynb   # Voting model - Ana
 │   └── 06_submission.ipynb       # Submission file creation – Aye
 │
+|
+├── models/
+│   └── *.joblib           # Saved models
+|
 ├── outputs/
 │   └── my-model.csv           # Final submission file (id, Accept)
 │
