@@ -23,7 +23,7 @@ This repository contains the solution developed by our team for the **"Loan Appr
 
 ```bash
 .
-├── data/                      # CSV files (train, test, sample_submission) – not uploaded
+├── data/                      # CSV files (train, test, sample_submission) –  uploaded
 │
 ├── notebooks/                # Team notebooks
 │   ├── 01_eda.ipynb              # EDA - Samvel
