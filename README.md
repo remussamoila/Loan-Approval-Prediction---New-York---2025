@@ -36,7 +36,7 @@ https://colab.research.google.com/github/remussamoila/Loan-Approval-Prediction--
 │   ├── 01_eda.ipynb              # EDA - Samvel
 │   ├── 02_preprocessing.ipynb    # Data cleaning - Anne
 │   ├── 03_baseline_models.ipynb  # Logistic/Tree - Alex
-│   ├── 04_advanced_models.ipynb  # XGBoost (eXtreme Gradient Boosting)/LGBM (Light Gradient Boosting Machine) - Remus
+│   ├── 04_advanced_models.ipynb  # XGBoost/LGBM  (eXtreme Gradient Boosting)/(Light Gradient Boosting Machine) - Remus
 │   ├── 05_ensemble_final.ipynb   # Voting model - Ana
 │   └── 06_submission.ipynb       # Submission file creation – Aye
 │
